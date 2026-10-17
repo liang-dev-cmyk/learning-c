@@ -32,8 +32,8 @@ int main()
     m = max_of(max_of(x, y), z);
     n = min_of(min_of(x, y), z);
 
-    printf("Max:%d\n", m);
-    printf("Min:%d\n", n);
+    printf("Max: %d\n", m);
+    printf("Min: %d\n", n);
 
     return 0;
 }
